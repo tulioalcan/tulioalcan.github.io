@@ -1,13 +1,32 @@
 body {
     background-color: rgb(185, 205, 211);
+    padding:3%;
 }
 
 
 h1 {
 font-family: Oswald, sans-serif;
+text-align: center;
 }
 
 #formacao {
 font-family: fantasy, sans-serif;
 color: rgb(66, 66, 68);
+position: absolute;
+right: 500px;
+top: 50px
 }
+
+#foto {
+    float: left;
+    height: 380px;
+    padding: 10px;
+    background-color:rgb(100, 99, 99);
+     
+    }
+
+.image-container {
+    height: 400px;
+    position: relative
+}
+
