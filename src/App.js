@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Começando portfolio
+          Iniciando
         </a>
       </header>
     </div>
